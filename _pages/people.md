@@ -26,15 +26,19 @@ Email: ijeong@hanyang.ac.kr
 
 ### Master's Students
 
--   
+- 전병선  
+  Research Interest: Supply Chain Optimization
+
+  
+- 곽승우  
   Research Interest: Supply Chain Optimization
 
 
-- Student Name  
+- 정유빈  
   Research Interest: Artificial Intelligence
 
 
-- Student Name  
+- 정인영  
   Research Interest: Artificial Intelligence
 
 
