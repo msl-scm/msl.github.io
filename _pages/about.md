@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /
 title: "MSL SCM Design Lab"
 author_profile: true
