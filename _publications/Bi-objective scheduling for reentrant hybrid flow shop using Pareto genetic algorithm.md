@@ -3,8 +3,7 @@ title: "Bi-objective scheduling for reentrant hybrid flow shop using Pareto gene
 collection: publications
 category: manuscripts
 year: 2011
-excerpt: 'Hang-Min Cho, Suk-Joo Bae, Jungwuk Kim, In-Jae Jeong, “Bi-objective scheduling for reentrant hybrid flow shop using Pareto genetic algorithm”, Computers & Industrial Engineering, Vol. 61, No 3,  529-541, 2011
-'
+excerpt: 'Hang-Min Cho, Suk-Joo Bae, Jungwuk Kim, In-Jae Jeong, “Bi-objective scheduling for reentrant hybrid flow shop using Pareto genetic algorithm”, Computers & Industrial Engineering, Vol. 61, No 3,  529-541, 2011'
 venue: 'Computers & Industrial Engineering'
 ---
 
