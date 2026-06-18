@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-
+# People
 ## Professor
 
 ### Prof. Jeong, In-Jae
