@@ -52,7 +52,7 @@ PROFESSIONAL EXPERIENCES
 ======
 * **2001 ~ 2003**  
   * Senior Engineer, LCD Business, Samsung Electronics, Korea
-  * – Job area: Supply Chain Management
+  * Job area: Supply Chain Management
   
 RESEARCH INTERESTS
 ======
