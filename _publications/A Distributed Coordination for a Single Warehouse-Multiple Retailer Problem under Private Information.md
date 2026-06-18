@@ -3,8 +3,7 @@ title: "A Distributed Coordination for a Single Warehouse-Multiple Retailer Prob
 collection: publications
 category: manuscripts
 year: 2010
-excerpt: 'Dong Joo Lee and In-Jae Jeong “A Distributed Coordination for a Single Warehouse-Multiple Retailer Problem under Private Information”, International Journal of Production Economics, Vol125, No. 1, 190-199, 2010
-'
+excerpt: 'Dong Joo Lee and In-Jae Jeong, “A Distributed Coordination for a Single Warehouse-Multiple Retailer Problem under Private Information”, International Journal of Production Economics, Vol125, No. 1, 190-199, 2010'
 venue: 'International Journal of Production Economics'
 ---
 
