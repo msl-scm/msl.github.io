@@ -3,7 +3,7 @@ title: "Distributed Allocation of Capacity of a Single-facility using Cooperativ
 collection: publications
 category: manuscripts
 year: 2003
-excerpt: 'Jeong, I-J and V.J. Leon, “Distributed Allocation of Capacity of a Single-facility using Cooperative Interaction via Coupling Agents,” International Journal of Production Research, Vol. 41, No. 1, 15-30,2003'
+excerpt: 'Jeong, I-J and V.J. Leon, “Distributed Allocation of Capacity of a Single-facility using Cooperative Interaction via Coupling Agents”, International Journal of Production Research, Vol. 41, No. 1, 15-30,2003'
 venue: 'International Journal of Production Research'
 ---
 
