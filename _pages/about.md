@@ -12,8 +12,8 @@ This lab focuses on systems modeling and algorithm research for applications cha
 
 This lab involves both governmental and industry funded projects dealing with developing decentralized planning, scheduling and control in smart factory, railway system and supply chain system.
 
-<div style="max-width:900px;margin:auto;">
-<video controls style="width:100%; height:auto;">
-<source src="{{ site.baseurl }}/assets/video/lab.mp4" type="video/mp4">
-</video>
+<div style="max-width:900px; margin:auto;">
+  <video controls style="width:100%;">
+    <source src="{{ '/assets/video/lab.mp4' | relative_url }}" type="video/mp4">
+  </video>
 </div>
