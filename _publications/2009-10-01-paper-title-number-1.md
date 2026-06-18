@@ -3,7 +3,6 @@ title: "A Distributed Scheduling Methodology for a Two-Machine Flowshop Using Co
 collection: publications
 category: manuscripts
 excerpt: 'Jeong, I-J and V.J. Leon, “A Distributed Scheduling Methodology for a Two-Machine Flowshop Using Cooperative-Interaction Via Multiple Coupling-Agents,” Journal of Manufacturing Systems, Vol. 21, No. 3, 126-140, 2002'
-date: 2009
 venue: 'Journal 1'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
