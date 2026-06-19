@@ -1,11 +1,11 @@
 ---
 layout: single
+title: "People
 permalink: /people/
-author_profile: false
+author_profile: true
 ---
 
 
-# People
 ## Professor
 
 ### Prof. Jeong, In-Jae
